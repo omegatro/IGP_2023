@@ -1,7 +1,7 @@
 # IGP_2023
 ## Team number 2:
   - Justs Vidušs
-  - Erika Gromule
+  - Erika Todjēre
   - Jevgenijs Bodrenko
 
 ## Description
