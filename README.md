@@ -10,4 +10,4 @@ The goal of the project is to develop a machine learning model that can recommen
 ### The following repository structure is assumed:
 - [modules](https://github.com/omegatro/IGP_2023/tree/main/modules) - section for python code for finalized solution to be placed
 - [notebooks](https://github.com/omegatro/IGP_2023/tree/main/notebooks) - section for jupyter-notebook results
-- [models]() - section for trained models
+- [models](https://github.com/omegatro/IGP_2023/tree/main/models) - section for trained models
