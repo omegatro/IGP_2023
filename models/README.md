@@ -11,3 +11,8 @@
 - Code reference - link to the code used to build and train the model
 - Authorship - initials of the contributors
 - Contribution - contribution in %
+
+### Team members:
+  - Justs Vidušs (JV)
+  - Erika Todjēre (ET)
+  - Jevgenijs Bodrenko (JB)
