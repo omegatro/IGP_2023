@@ -18,14 +18,39 @@ The goal of the project is to develop a machine learning model that can recommen
   - Each subdirectory contains readme file with the description of its contents.
 
 ### Project contribution
-|Project component|Description|Authorship|Contribution (%)|
-|-|-|-|-|
-|-|-|-|-|
-|-|-|-|-|
-
+|Project component|Description|VJ|ET|JB|
+|-|-|-|-|-|
+|Documentation|Documenting the code and project progress|25|25|50|
+|Code|Contributing code for the tasks of the project|35|20|45|
+|Communication|Communication with stakeholders and facilitator role within the team|35|45|20|
+|Research|Module-specific research to direct the development|33|33|33|
+|Presentation|Presentation of the project results|40|40|20|
+|Management|Planning individual work as well as collaboration within the assigned module|33|33|33|
+|**Overall**|Involvement optimality score|1.01|0.98|1.01|
 
 ### Table column meaning
 - Project component - directory name that represents single module of the project
 - Description - short description of the component
-- Authorship - initials of the contributors
-- Contribution - contribution in %
+- Initials - contribution in %
+
+### Involvement optimality score calculation
+- ![](https://github.com/omegatro/IGP_2023/assets/24509450/b5042b7e-78f0-4bc4-a788-e85f4c3d8d16)
+  - t - number of team members
+  - C - number of components
+  - c_i - contribution form the individual component
+* Example:
+  - the score represents the ratio between the observed and optimal (equal) contribution
+    - it assumes that in case of equal contribution each team member should contribute equally to the project
+    - given that each project component is taken as 100 %, the overall project contribution can be calculated as 100*C:
+      - 100*6 = 600 in this case
+    - the optimal contribution can then be calculated by dividing the resulting value by t:
+      - 600 / 3 = 200 in this case
+  - the observed contribution c_i for each member is calculated as a sum of contributions for each component, for example:
+    - JB = 50 + 45 + 20 + 33 + 20 + 33 = 201
+  - the final score is obtained by dividing the observed contribution by the optimal contribution:
+    - JB = 201/200 = 1.01
+* Interpretation:
+  - Scores close to 1 indicate optimal involvement 
+  - Scores between 1 and 0 indicate low involvement
+  - Socres above 1 indicate high involvement
+
