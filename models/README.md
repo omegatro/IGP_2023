@@ -3,7 +3,7 @@
 |-|-|-|-|-|-|-|
 |tfrs_retrieval_product.model|Model for embedding generation from product features.|Retrieval of core relevant products based on relevance for a given customers |[TFRS](https://www.tensorflow.org/recommenders)|[Training code](https://github.com/omegatro/IGP_2023/blob/main/notebooks/tfrs/tfrs_retrieval_temporal_sampling.ipynb)|JB|100|
 |tfrs_retrieval_user.model|Model for embedding generation from customer features.|Retrieval of core relevant products based on relevance for a given customers |[TFRS](https://www.tensorflow.org/recommenders)|[Training code](https://github.com/omegatro/IGP_2023/blob/main/notebooks/tfrs/tfrs_retrieval_temporal_sampling.ipynb)|JB|100|
-### Glossary
+### Table column meaning
 - Name - file or directory name that represents the model
 - Description - short description of the model
 - Task - the task that the model was trained for
