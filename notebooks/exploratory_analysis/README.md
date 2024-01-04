@@ -5,3 +5,7 @@
 |[tfrs_preprocessing.ipynb](https://github.com/omegatro/IGP_2023/blob/omegatro-patch-1/notebooks/exploratory_analysis/tfrs_preprocessing.ipynb)|EDA focused on overview and exploring the possibility for manual feature engineering|JB|100|
 
 *Task: Exploratory data analysis & feature engineering using customer data [#19](/../../issues/19)*
+
+### Team members:
+  - Erika Todjēre (ET)
+  - Jevgenijs Bodrenko (JB)
