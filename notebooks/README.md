@@ -10,3 +10,8 @@
 - Description - short description of the project module
 - Authorship - initials of the contributors
 - Contribution - contribution in %
+
+### Team members:
+  - Justs Vidušs (JV)
+  - Erika Todjēre (ET)
+  - Jevgenijs Bodrenko (JB)
