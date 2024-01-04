@@ -1,4 +1,14 @@
-## Current directory contains the code for experimentation and the development of the deliverable model using Tensorflow Recommenders
-## Overview of the approach taken to develop the model to be delivered
+## The code for experimentation and the development of the deliverable model using Tensorflow Recommenders.
+|Name|Description|
+|-|-|
+|[tfrs_retrieval_temporal_sampling.ipynb](https://github.com/omegatro/IGP_2023/blob/omegatro-patch-1/notebooks/tfrs/tfrs_retrieval_temporal_sampling.ipynb)|Data preprocessing, train-test split, model building, training and evaluation|
+|[experiments/TFRS_tutorial.ipynb](TFRS_tutorial.ipynb)|Initial exploration of TFRS for retrieval|
+|[experiments/tfrs_sandbox.ipynb](https://github.com/omegatro/IGP_2023/blob/omegatro-patch-1/notebooks/tfrs/experiments/tfrs_sandbox.ipynb)|First attempt to adapt TFRS for H&M data|
+
+*Authorship: JB* <br>
+*Task: Tensorflow-based recommendation model [#9](/../../issues/9)*
+
+## Overview of the final approach to develop the model
 ![](https://github.com/omegatro/IGP_2023/blob/omegatro-patch-1/notebooks/tfrs/Two_tower_model_demo.png)
-*Authorship: JB*
+
+
