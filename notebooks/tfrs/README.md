@@ -1,4 +1,4 @@
-## The code for experimentation and the development of the deliverable model using Tensorflow Recommenders.
+## The code for experimentation and development of retrieval model using Tensorflow Recommenders.
 |Name|Description|
 |-|-|
 |[tfrs_retrieval_temporal_sampling.ipynb](https://github.com/omegatro/IGP_2023/blob/omegatro-patch-1/notebooks/tfrs/tfrs_retrieval_temporal_sampling.ipynb)|Data preprocessing, train-test split, model building, training and evaluation|
