@@ -16,3 +16,16 @@ The goal of the project is to develop a machine learning model that can recommen
   - This section contains the trained models that can be reconstructed and imported directly using specific library.
   - It is organized into subdirectories based on the task the model was built for.
   - Each subdirectory contains readme file with the description of its contents.
+
+### Project contribution
+|Project component|Description|Authorship|Contribution (%)|
+|-|-|-|-|
+|-|-|-|-|
+|-|-|-|-|
+
+
+### Table column meaning
+- Project component - directory name that represents single module of the project
+- Description - short description of the component
+- Authorship - initials of the contributors
+- Contribution - contribution in %
