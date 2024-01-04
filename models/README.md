@@ -9,5 +9,5 @@
 - Task - the task that the model was trained for
 - Library - library that was used to train the model
 - Code reference - link to the code used to build and train the model
-- Authorship - Initials of contributors
+- Authorship - initials of the contributors
 - Contribution - contribution in %
