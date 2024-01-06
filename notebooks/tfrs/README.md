@@ -2,7 +2,7 @@
 |Name|Description|
 |-|-|
 |[tfrs_retrieval_temporal_sampling.ipynb](https://github.com/omegatro/IGP_2023/blob/main/notebooks/tfrs/tfrs_retrieval_temporal_sampling.ipynb)|Data preprocessing, train-test split, model building, training and evaluation|
-|[experiments/TFRS_tutorial.ipynb](TFRS_tutorial.ipynb)|Initial exploration of TFRS for retrieval|
+|[experiments/TFRS_tutorial.ipynb](https://github.com/omegatro/IGP_2023/blob/main/notebooks/tfrs/experiments/TFRS_tutorial.ipynb)|Initial exploration of TFRS for retrieval|
 |[experiments/tfrs_sandbox.ipynb](https://github.com/omegatro/IGP_2023/blob/main/notebooks/tfrs/experiments/tfrs_sandbox.ipynb)|First attempt to adapt TFRS for H&M data|
 
 *Authorship: JB* <br>
